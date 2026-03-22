@@ -31,8 +31,11 @@
 ## 👾 About Me
 
  Hey! I’m Lucky Singh, a B.Tech CSE student at IIIT Nagpur (4th semester) with a strong interest in Machine Learning, Deep Learning, and Data Science.
+ 
 I enjoy building end-to-end ML projects, from working with raw data to deploying models as real-world applications.
+
 Alongside this, I consistently practice Data Structures and Algorithms (DSA) to strengthen my problem-solving skills.
+
 Currently, I’m looking for opportunities in ML/AI or Data Science to learn, contribute, and grow 🚀
 <br/>
 
