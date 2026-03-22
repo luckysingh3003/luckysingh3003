@@ -22,19 +22,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:ff00ff&height=3" width="100%"/>
 
-```python
-class LuckySingh:
-    def __init__(self):
-        self.name        = "Lucky Singh"
-        self.alias       = "luckysingh3003"
-        self.college     = "IIIT Nagpur  ·  B.Tech CSE  ·  4th Semester"
-        self.focus       = ["Machine Learning", "Deep Learning", "Data Science"]
-        self.status      = "🟢 Open to ML/AI/Data Science Internships"
 
-
-    def __repr__(self):
-        return f"Building AI. Breaking baselines. Shipping models. 🚀"
-```
 
 <br/>
 
