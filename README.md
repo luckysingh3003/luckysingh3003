@@ -1,8 +1,26 @@
 <!-- ██████████████████████████████████████████ HEADER ██████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a0a2e,60:00ff88,100:ff00ff&height=240&section=header&text=Lucky%20Singh&fontSize=80&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=〔%20ML%20Engineer%20·%20Deep%20Learning%20·%20IIIT%20Nagpur%20〕&descAlignY=62&descSize=18&descColor=00ccff" width="100%"/>
-
 <div align="center">
+
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0221"/>
+      <stop offset="50%" style="stop-color:#0a0a2e"/>
+      <stop offset="100%" style="stop-color:#1a0035"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ff88"/>
+      <stop offset="100%" style="stop-color:#00ccff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+  <text x="450" y="105" font-family="monospace" font-size="64" font-weight="bold" fill="url(#textGrad)" text-anchor="middle">Lucky Singh</text>
+  <text x="450" y="148" font-family="monospace" font-size="16" fill="#cc88ff" text-anchor="middle">〔 ML Engineer · Deep Learning · IIIT Nagpur 〕</text>
+  <line x1="200" y1="165" x2="700" y2="165" stroke="#00ff88" stroke-width="1" opacity="0.4"/>
+</svg>
+
+<br/>
 
 ### 🤖 Building AI that actually works
 ### 📊 Kaggle Competitor &nbsp;|&nbsp; ML / Deep Learning
@@ -21,7 +39,7 @@
 
 <!-- ████████████████████████████████████████ ABOUT ME ████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:0a0a2e&height=3&section=header" width="100%"/>
+<svg width="100%" height="4" viewBox="0 0 900 4" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="d"><stop offset="0%" stop-color="#00ff88"/><stop offset="100%" stop-color="#ff00ff"/></linearGradient></defs><rect width="900" height="4" fill="url(#d)"/></svg>
 
 ```python
 class LuckySingh:
@@ -31,7 +49,6 @@ class LuckySingh:
         self.college     = "IIIT Nagpur  ·  B.Tech CSE  ·  4th Semester"
         self.focus       = ["Machine Learning", "Deep Learning", "Data Science"]
         self.status      = "🟢 Open to ML/AI/Data Science Internships"
-        self.competitions= ["Kaggle March ML Mania 2026", "Playground Series S6E3"]
 
 
     def __repr__(self):
