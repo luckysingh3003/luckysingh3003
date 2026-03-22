@@ -36,7 +36,7 @@ I enjoy building end-to-end ML projects, from working with raw data to deploying
 
 Alongside this, I consistently practice Data Structures and Algorithms (DSA) to strengthen my problem-solving skills.
 
-Currently, I’m looking for opportunities in ML/AI or Data Science to learn, contribute, and grow 🚀
+Currently, I’m looking for opportunities in ML/AI or Data Science to learn, contribute, and grow 
 <br/>
 
 <!-- ████████████████████████████████████████ TECH STACK ██████████████████████████████████████ -->
