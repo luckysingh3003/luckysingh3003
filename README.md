@@ -2,34 +2,15 @@
 
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d0221"/>
-      <stop offset="50%" style="stop-color:#0a0a2e"/>
-      <stop offset="100%" style="stop-color:#1a0035"/>
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00ff88"/>
-      <stop offset="100%" style="stop-color:#00ccff"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
-  <text x="450" y="105" font-family="monospace" font-size="64" font-weight="bold" fill="url(#textGrad)" text-anchor="middle">Lucky Singh</text>
-  <text x="450" y="148" font-family="monospace" font-size="16" fill="#cc88ff" text-anchor="middle">〔 ML Engineer · Deep Learning · IIIT Nagpur 〕</text>
-  <line x1="200" y1="165" x2="700" y2="165" stroke="#00ff88" stroke-width="1" opacity="0.4"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:0a0a2e,70:00ff88,100:ff00ff&height=220&section=header&text=Lucky%20Singh&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20Deep%20Learning%20%C2%B7%20IIIT%20Nagpur&descAlignY=60&descSize=20&descColor=00ff88" width="100%" />
 
 <br/>
 
-### 🤖 Building AI that actually works
-### 📊 Kaggle Competitor &nbsp;|&nbsp; ML / Deep Learning
-### 🎓 B.Tech CSE @ IIIT Nagpur — 4th Semester
-### 🚀 Actively Seeking ML / AI Summer Internship
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+works;Kaggle+Competitor+%7C+ML+%2F+Deep+Learning;B.Tech+CSE+%40+IIIT+Nagpur+%7C+4th+Sem;Turning+Raw+Data+into+Intelligence;Seeking+ML+%2F+AI+Summer+Internship" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=luckysingh3003&color=00ff88&style=for-the-badge&label=⚡+NEURAL+VISITORS)](https://github.com/luckysingh3003)
+[![Profile Views](https://komarev.com/ghpvc/?username=luckysingh3003&color=00ff88&style=for-the-badge&label=NEURAL+VISITORS)](https://github.com/luckysingh3003)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/luckysingh3003?style=for-the-badge&color=ff00ff&labelColor=0d0221&label=FOLLOWERS)](https://github.com/luckysingh3003?tab=followers)
 
@@ -39,7 +20,7 @@
 
 <!-- ████████████████████████████████████████ ABOUT ME ████████████████████████████████████████ -->
 
-<svg width="100%" height="4" viewBox="0 0 900 4" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="d"><stop offset="0%" stop-color="#00ff88"/><stop offset="100%" stop-color="#ff00ff"/></linearGradient></defs><rect width="900" height="4" fill="url(#d)"/></svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:ff00ff&height=3" width="100%"/>
 
 ```python
 class LuckySingh:
