@@ -26,6 +26,16 @@
 
 <br/>
 
+<!-- ████████████████████████████████████████ ABOUT ME ████████████████████████████████████████ -->
+
+## 👾 About Me
+
+Hey! I'm **Lucky Singh**, a B.Tech CSE student at **IIIT Nagpur** (4th Semester), passionate about building intelligent systems that solve real-world problems. I specialize in **Machine Learning, Deep Learning, and Data Science** — from training models to deploying them as production-ready web apps.
+
+I actively compete on **Kaggle**, build and ship ML projects, and love turning raw data into meaningful predictions. Currently open to **ML / AI / Data Science internship opportunities** where I can contribute and grow.
+
+<br/>
+
 <!-- ████████████████████████████████████████ TECH STACK ██████████████████████████████████████ -->
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"/> &nbsp;Tech Arsenal</h2>
