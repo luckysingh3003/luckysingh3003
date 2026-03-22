@@ -1,4 +1,3 @@
- 
 <!-- ██████████████████████████████████████████ HEADER ██████████████████████████████████████████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a0a2e,60:00ff88,100:ff00ff&height=240&section=header&text=Lucky%20Singh&fontSize=80&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=〔%20ML%20Engineer%20·%20Deep%20Learning%20·%20IIIT%20Nagpur%20〕&descAlignY=62&descSize=18&descColor=00ccff" width="100%"/>
@@ -30,8 +29,7 @@ class LuckySingh:
         self.focus       = ["Machine Learning", "Deep Learning", "Data Science"]
         self.status      = "🟢 Open to ML/AI/Data Science Internships"
         self.competitions= ["Kaggle March ML Mania 2026", "Playground Series S6E3"]
-        self.achievement = "PacketLLM-R2 → Shortlisted @ IEEE IES GenAI Challenge 2026"
-        self.currently   = "Building finance domain DL project (PyTorch + Streamlit)"
+
 
     def __repr__(self):
         return f"Building AI. Breaking baselines. Shipping models. 🚀"
@@ -44,6 +42,21 @@ class LuckySingh:
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"/> &nbsp;Tech Arsenal</h2>
 
 <div align="center">
+
+**💻 Languages**
+
+[![C](https://img.shields.io/badge/C-0d0221?style=for-the-badge&logo=c&logoColor=00ff88)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-0d0221?style=for-the-badge&logo=cplusplus&logoColor=ff00ff)](https://cplusplus.com)
+[![Java](https://img.shields.io/badge/Java-0d0221?style=for-the-badge&logo=openjdk&logoColor=00ccff)](https://java.com)
+[![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=00ff88)](https://python.org)
+[![HTML](https://img.shields.io/badge/HTML-0d0221?style=for-the-badge&logo=html5&logoColor=ff00ff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-0d0221?style=for-the-badge&logo=css3&logoColor=00ccff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=00ff88)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=ff00ff)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=00ccff)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-0d0221?style=for-the-badge&logo=express&logoColor=00ff88)](https://expressjs.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0d0221?style=for-the-badge&logo=mongodb&logoColor=ff00ff)](https://mongodb.com)
+[![SQL](https://img.shields.io/badge/SQL-0d0221?style=for-the-badge&logo=mysql&logoColor=00ccff)](https://www.mysql.com)
 
 **🧠 ML / DL Frameworks**
 
@@ -76,7 +89,6 @@ class LuckySingh:
 
 **🛠️ Tools**
 
-[![C++](https://img.shields.io/badge/C++-0d0221?style=for-the-badge&logo=cplusplus&logoColor=00ff88)](https://cplusplus.com)
 [![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=ff00ff)](https://git-scm.com)
 [![VS Code](https://img.shields.io/badge/VS%20Code-0d0221?style=for-the-badge&logo=visualstudiocode&logoColor=00ccff)](https://code.visualstudio.com)
 [![Jupyter](https://img.shields.io/badge/Jupyter-0d0221?style=for-the-badge&logo=jupyter&logoColor=00ff88)](https://jupyter.org)
@@ -93,57 +105,26 @@ class LuckySingh:
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 CineMatch
-> **Movie Recommendation Engine**
+### 🎬 Movies Recommendation System
+> **Content-Based Filtering Engine**
 
-Semantic similarity-powered recommender using **FAISS** vector search + **TMDB API**. Netflix-dark UI built with **Streamlit**. Returns top-N similar movies with posters, ratings, and genres in real-time.
+ML-powered recommender using **content-based filtering** on the **TMDB 5000 dataset**. Returns top-N similar movies with an interactive **Streamlit** web interface.
 
-**Stack:** `Python` `FAISS` `TMDB API` `Streamlit` `Pandas`
+**Stack:** `Python` `scikit-learn` `TMDB 5000` `Streamlit` `Pandas`
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-00ff88?style=for-the-badge)](https://huggingface.co/spaces)
-[![Repo](https://img.shields.io/badge/GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckysingh3003)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 CineScore
-> **Sentiment Analysis · Movie Reviews**
-
-Classifies movie reviews as positive/negative using **TF-IDF + Logistic Regression**. Deployed on **HuggingFace Spaces** via Gradio with live inference.
-
-**Stack:** `Python` `scikit-learn` `TF-IDF` `Gradio` `HuggingFace`
-
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-00ff88?style=for-the-badge)](https://huggingface.co/spaces)
-[![Repo](https://img.shields.io/badge/GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckysingh3003)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🕵️ DeepDetect
-> **AI vs Real Image Classifier**
-
-Two-phase transfer learning on **EfficientNetB0** — head training then top-30% fine-tuning — to detect AI-generated images. Achieves high accuracy on real-world test sets.
-
-**Stack:** `PyTorch` `EfficientNetB0` `Transfer Learning` `HuggingFace`
-
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-00ff88?style=for-the-badge)](https://huggingface.co/spaces)
-[![Repo](https://img.shields.io/badge/GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckysingh3003)
+[![Repo](https://img.shields.io/badge/GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckysingh3003/Movies-recommendation-system)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 PacketLLM-R2
-> **IoT Intrusion Detection · Research**
+### 🐱🐶 Cat-Dog Classifier
+> **Binary Image Classification · CNN**
 
-Hybrid system combining **Llama 3** with a packet-level verification engine for real-time IoT threat detection.
+Deep learning classifier that distinguishes cats from dogs using a trained **CNN model** with real-time inference.
 
-🏆 **Shortlisted — IEEE IES Generative AI Challenge 2026**
+**Stack:** `Python` `TensorFlow/Keras` `CNN` `Deep Learning`
 
-**Stack:** `LLM` `Llama 3` `Network Security` `Python`
-
-[![IEEE](https://img.shields.io/badge/IEEE%20IES%20Shortlisted-00ccff?style=for-the-badge)](https://github.com/luckysingh3003)
+[![Repo](https://img.shields.io/badge/GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckysingh3003/Cat-Dog-Classifier)
 
 </td>
 </tr>
@@ -151,36 +132,6 @@ Hybrid system combining **Llama 3** with a packet-level verification engine for 
 
 <br/>
 
-<!-- ████████████████████████████████████████ KAGGLE ██████████████████████████████████████████ -->
-
-<h2>🏆 Kaggle Battleground</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-**📌 Playground Series S6E3** — Customer Churn
-- **Metric:** ROC-AUC
-- **Best LB Score:** `~0.91705`
-- **Stack:** LightGBM + CatBoost ensemble, Optuna HPO, PyTorch MLP, Stacking meta-learner
-- **Key Insight:** OOF→LB gap ≈ 0.002–0.003; SHAP sampled at 50k rows
-
-</td>
-<td width="50%">
-
-**📌 March ML Mania 2026** — NCAA Brackets
-- **Metric:** Brier Score
-- **Best:** Men `0.1423` · Women `0.1110`
-- **Stack:** Logistic Regression + LightGBM + Elo ratings + Isotonic Calibration
-- **Key Insight:** LR > XGBoost on linear difference-based features
-
-</td>
-</tr>
-</table>
-
-[![Kaggle Profile](https://img.shields.io/badge/View%20Kaggle%20Profile-00ff88?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/luckysingh3003)
-
-<br/>
 
 <!-- ████████████████████████████████████████ GITHUB STATS ████████████████████████████████████ -->
 
