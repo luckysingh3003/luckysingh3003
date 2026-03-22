@@ -1,1 +1,228 @@
  
+<!-- ██████████████████████████████████████████ HEADER ██████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a0a2e,60:00ff88,100:ff00ff&height=240&section=header&text=Lucky%20Singh&fontSize=80&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=〔%20ML%20Engineer%20·%20Deep%20Learning%20·%20IIIT%20Nagpur%20〕&descAlignY=62&descSize=18&descColor=00ccff" width="100%"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=🤖+Building+AI+that+actually+works;📊+Kaggle+Competitor+%7C+ML+%2F+Deep+Learning;🎓+B.Tech+CS+%40+IIIT+Nagpur+%E2%80%94+4th+Sem;⚡+Turning+Raw+Data+into+Intelligence;🚀+Actively+Seeking+ML%2FAI+Summer+Internship" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=luckysingh3003&color=00ff88&style=for-the-badge&label=⚡+NEURAL+VISITORS)](https://github.com/luckysingh3003)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/luckysingh3003?style=for-the-badge&color=ff00ff&labelColor=0d0221&label=FOLLOWERS)](https://github.com/luckysingh3003?tab=followers)
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████████████ ABOUT ME ████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:0a0a2e&height=3&section=header" width="100%"/>
+
+```python
+class LuckySingh:
+    def __init__(self):
+        self.name        = "Lucky Singh"
+        self.alias       = "luckysingh3003"
+        self.college     = "IIIT Nagpur  ·  B.Tech CSE  ·  4th Semester"
+        self.focus       = ["Machine Learning", "Deep Learning", "Data Science"]
+        self.status      = "🟢 Open to ML/AI/Data Science Internships"
+        self.competitions= ["Kaggle March ML Mania 2026", "Playground Series S6E3"]
+        self.achievement = "PacketLLM-R2 → Shortlisted @ IEEE IES GenAI Challenge 2026"
+        self.currently   = "Building finance domain DL project (PyTorch + Streamlit)"
+
+    def __repr__(self):
+        return f"Building AI. Breaking baselines. Shipping models. 🚀"
+```
+
+<br/>
+
+<!-- ████████████████████████████████████████ TECH STACK ██████████████████████████████████████ -->
+
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"/> &nbsp;Tech Arsenal</h2>
+
+<div align="center">
+
+**🧠 ML / DL Frameworks**
+
+[![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=00ff88)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-0d0221?style=for-the-badge&logo=pytorch&logoColor=ff00ff)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0221?style=for-the-badge&logo=tensorflow&logoColor=00ccff)](https://tensorflow.org)
+[![Keras](https://img.shields.io/badge/Keras-0d0221?style=for-the-badge&logo=keras&logoColor=ff00ff)](https://keras.io)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0221?style=for-the-badge&logo=scikit-learn&logoColor=00ff88)](https://scikit-learn.org)
+
+**⚡ Boosting & AutoML**
+
+[![LightGBM](https://img.shields.io/badge/LightGBM-0d0221?style=for-the-badge&logo=lightgbm&logoColor=00ff88)](https://lightgbm.readthedocs.io)
+[![XGBoost](https://img.shields.io/badge/XGBoost-0d0221?style=for-the-badge&logo=xgboost&logoColor=ff00ff)](https://xgboost.readthedocs.io)
+[![CatBoost](https://img.shields.io/badge/CatBoost-0d0221?style=for-the-badge&logo=catboost&logoColor=00ccff)](https://catboost.ai)
+[![Optuna](https://img.shields.io/badge/Optuna-0d0221?style=for-the-badge&logo=optuna&logoColor=00ff88)](https://optuna.org)
+
+**🚀 Deployment & MLOps**
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-0d0221?style=for-the-badge&logo=streamlit&logoColor=ff00ff)](https://streamlit.io)
+[![Gradio](https://img.shields.io/badge/Gradio-0d0221?style=for-the-badge&logo=gradio&logoColor=00ff88)](https://gradio.app)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace%20Spaces-0d0221?style=for-the-badge&logo=huggingface&logoColor=00ccff)](https://huggingface.co/spaces)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d0221?style=for-the-badge&logo=kaggle&logoColor=00ff88)](https://kaggle.com)
+
+**📊 Data & Visualization**
+
+[![Pandas](https://img.shields.io/badge/Pandas-0d0221?style=for-the-badge&logo=pandas&logoColor=ff00ff)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-0d0221?style=for-the-badge&logo=numpy&logoColor=00ccff)](https://numpy.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0221?style=for-the-badge&logo=plotly&logoColor=00ff88)](https://matplotlib.org)
+[![FAISS](https://img.shields.io/badge/FAISS-0d0221?style=for-the-badge&logo=meta&logoColor=ff00ff)](https://github.com/facebookresearch/faiss)
+
+**🛠️ Tools**
+
+[![C++](https://img.shields.io/badge/C++-0d0221?style=for-the-badge&logo=cplusplus&logoColor=00ff88)](https://cplusplus.com)
+[![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=ff00ff)](https://git-scm.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0d0221?style=for-the-badge&logo=visualstudiocode&logoColor=00ccff)](https://code.visualstudio.com)
+[![Jupyter](https://img.shields.io/badge/Jupyter-0d0221?style=for-the-badge&logo=jupyter&logoColor=00ff88)](https://jupyter.org)
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████████████ PROJECTS ████████████████████████████████████████ -->
+
+<h2>⚡ Deployed Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 CineMatch
+> **Movie Recommendation Engine**
+
+Semantic similarity-powered recommender using **FAISS** vector search + **TMDB API**. Netflix-dark UI built with **Streamlit**. Returns top-N similar movies with posters, ratings, and genres in real-time.
+
+**Stack:** `Python` `FAISS` `TMDB API` `Streamlit` `Pandas`
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-00ff88?style=for-the-badge)](https://huggingface.co/spaces)
+[![Repo](https://img.shields.io/badge/GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckysingh3003)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 CineScore
+> **Sentiment Analysis · Movie Reviews**
+
+Classifies movie reviews as positive/negative using **TF-IDF + Logistic Regression**. Deployed on **HuggingFace Spaces** via Gradio with live inference.
+
+**Stack:** `Python` `scikit-learn` `TF-IDF` `Gradio` `HuggingFace`
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-00ff88?style=for-the-badge)](https://huggingface.co/spaces)
+[![Repo](https://img.shields.io/badge/GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckysingh3003)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ DeepDetect
+> **AI vs Real Image Classifier**
+
+Two-phase transfer learning on **EfficientNetB0** — head training then top-30% fine-tuning — to detect AI-generated images. Achieves high accuracy on real-world test sets.
+
+**Stack:** `PyTorch` `EfficientNetB0` `Transfer Learning` `HuggingFace`
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-00ff88?style=for-the-badge)](https://huggingface.co/spaces)
+[![Repo](https://img.shields.io/badge/GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luckysingh3003)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 PacketLLM-R2
+> **IoT Intrusion Detection · Research**
+
+Hybrid system combining **Llama 3** with a packet-level verification engine for real-time IoT threat detection.
+
+🏆 **Shortlisted — IEEE IES Generative AI Challenge 2026**
+
+**Stack:** `LLM` `Llama 3` `Network Security` `Python`
+
+[![IEEE](https://img.shields.io/badge/IEEE%20IES%20Shortlisted-00ccff?style=for-the-badge)](https://github.com/luckysingh3003)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ████████████████████████████████████████ KAGGLE ██████████████████████████████████████████ -->
+
+<h2>🏆 Kaggle Battleground</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+**📌 Playground Series S6E3** — Customer Churn
+- **Metric:** ROC-AUC
+- **Best LB Score:** `~0.91705`
+- **Stack:** LightGBM + CatBoost ensemble, Optuna HPO, PyTorch MLP, Stacking meta-learner
+- **Key Insight:** OOF→LB gap ≈ 0.002–0.003; SHAP sampled at 50k rows
+
+</td>
+<td width="50%">
+
+**📌 March ML Mania 2026** — NCAA Brackets
+- **Metric:** Brier Score
+- **Best:** Men `0.1423` · Women `0.1110`
+- **Stack:** Logistic Regression + LightGBM + Elo ratings + Isotonic Calibration
+- **Key Insight:** LR > XGBoost on linear difference-based features
+
+</td>
+</tr>
+</table>
+
+[![Kaggle Profile](https://img.shields.io/badge/View%20Kaggle%20Profile-00ff88?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/luckysingh3003)
+
+<br/>
+
+<!-- ████████████████████████████████████████ GITHUB STATS ████████████████████████████████████ -->
+
+<h2>📡 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckysingh3003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00ff88&icon_color=ff00ff&text_color=00ccff&border_radius=12" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckysingh3003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00ff88&text_color=00ccff&border_radius=12&langs_count=7" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luckysingh3003&theme=tokyonight&hide_border=true&background=0d0221&stroke=00ff88&ring=ff00ff&fire=00ccff&currStreakNum=00ff88&sideNums=00ccff&currStreakLabel=ff00ff&sideLabels=00ff88&dates=aaaaaa&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luckysingh3003&bg_color=0d0221&color=00ff88&line=ff00ff&point=00ccff&area=true&area_color=00ff8820&hide_border=true&radius=12" width="95%"/>
+
+</div>
+
+<br/>
+
+<!-- ████████████████████████████████████████ CONNECT ██████████████████████████████████████████ -->
+
+<h2>🌐 Connect</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00ccff)](https://linkedin.com/in/luckysingh3003)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d0221?style=for-the-badge&logo=kaggle&logoColor=00ff88)](https://kaggle.com/luckysingh3003)
+&nbsp;
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0221?style=for-the-badge&logo=huggingface&logoColor=ff00ff)](https://huggingface.co/luckysingh3003)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=00ccff)](mailto:luckysingh3003@gmail.com)
+
+<br/><br/>
+
+> *"The model that generalizes wins. The engineer who ships wins faster."*
+
+</div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ccff,100:00ff88&height=120&section=footer&reversal=false" width="100%"/>
