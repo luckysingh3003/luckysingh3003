@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=🤖+Building+AI+that+actually+works;📊+Kaggle+Competitor+%7C+ML+%2F+Deep+Learning;🎓+B.Tech+CS+%40+IIIT+Nagpur+%E2%80%94+4th+Sem;⚡+Turning+Raw+Data+into+Intelligence;🚀+Actively+Seeking+ML%2FAI+Summer+Internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+works...;Kaggle+Competitor+%7C+ML+%2F+Deep+Learning;B.Tech+CS+%40+IIIT+Nagpur+%E2%80%94+4th+Sem;Turning+Raw+Data+into+Intelligence;Seeking+ML%2FAI+Summer+Internship+2025" alt="Typing SVG" />
 
 <br/><br/>
 
