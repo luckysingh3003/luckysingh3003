@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+works;Kaggle+Competitor+%7C+ML+%2F+Deep+Learning;B.Tech+CSE+%40+IIIT+Nagpur+%7C+4th+Sem;Turning+Raw+Data+into+Intelligence;Seeking+ML+%2F+AI+Summer+Internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+works;Kaggle+Competitor+%7C+ML+%2F+Deep+Learning;B.Tech+CSE+%40+IIIT+Nagpur+%7C+4th+Sem;Turning+Raw+Data+into+Intelligence" alt="Typing SVG" />
 
 <br/><br/>
 
