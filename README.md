@@ -4,10 +4,10 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/🤖_Building_AI_that_actually_works-0d0221?style=for-the-badge&labelColor=0d0221&color=00ff88)
-![](https://img.shields.io/badge/📊_Kaggle_Competitor_|_ML_/_Deep_Learning-0d0221?style=for-the-badge&labelColor=0d0221&color=ff00ff)
-![](https://img.shields.io/badge/🎓_B.Tech_CSE_@_IIIT_Nagpur_—_4th_Sem-0d0221?style=for-the-badge&labelColor=0d0221&color=00ccff)
-![](https://img.shields.io/badge/🚀_Seeking_ML/AI_Summer_Internship-0d0221?style=for-the-badge&labelColor=0d0221&color=00ff88)
+### 🤖 Building AI that actually works
+### 📊 Kaggle Competitor &nbsp;|&nbsp; ML / Deep Learning
+### 🎓 B.Tech CSE @ IIIT Nagpur — 4th Semester
+### 🚀 Actively Seeking ML / AI Summer Internship
 
 <br/><br/>
 
